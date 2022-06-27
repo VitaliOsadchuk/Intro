@@ -12,7 +12,7 @@
 
 
 
-- 📫 How to reach me: vosad4uk@gmail.com
+ 📫 How to reach me: vosad4uk@gmail.com
 </div>
 
 
