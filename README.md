@@ -1,4 +1,4 @@
-<div align="center">       Hi 👋 I'm Vitalii :wink:
+<div align="center">       Hi 👋 I'm Vitali :wink:
 
 
 <div id="badges">
